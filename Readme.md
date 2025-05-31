@@ -38,23 +38,15 @@ Our experiments utilize two well-established hate speech datasets:
 
 
 ## Repository Structure
-.
-├── Conan_WOAH_2025/
-│   └── Core codes and experiments
-│
-├── LLM_prompt_strategies/
-│   └── Prompt templates for:
-│       ├── Open-source models (Llama, Mistral)
-│       └── Closed-source APIs (GPT-4o-mini, Cohere Command-R)
-│
-├── conan_prompt_and_analysis_outcomes/
-│   ├── LLM-generated responses (CONAN)
-│   ├── Word count + verbosity stats
-│   ├── Emotion & sentiment labels (RoBERTa, DistilBERT)
-│   └── Addiitional affective metrics via MistralAI
-│
-├── hateeval_prompt_and_analysis_outcomes/
-│   └── Full LLM response analysis on HatEval dataset
+
+Conan_WOAH_2025/: Core implementation and experiments for the CONAN dataset.
+
+LLM_prompt_strategies/: Prompt templates used to query both open- and closed-source LLMs.
+
+conan_prompt_and_analysis_outcomes/: Processed results and analyses of LLM outputs on the CONAN dataset, including all generated prompt responses, verbosity stats, affective metrics(emotion and sentiment analysis with RoBERTa abd DistilBERT respectively) .
+
+hateeval_prompt_and_analysis_outcomes/: Equivalent analysis results for the HatEval dataset.
+
 
 Read the full paper here
 
