@@ -53,13 +53,21 @@ hateeval_prompt_and_analysis_outcomes/: Equivalent analysis results for the HatE
 
 If you use this code or data, please cite our paper
 
-[APA] Ngueajio, M. K., Plaza-del-Arco, F. M., Chung, Y. L., Rawat, D. B., & Curry, A. C. (2025). Think Like a Person Before Responding: A Multi-Faceted Evaluation of Persona-Guided LLMs for Countering Hate. arXiv preprint arXiv:2506.04043.
+[APA] 
 
-[BibTex] @article{ngueajio2025think,
-  title={Think Like a Person Before Responding: A Multi-Faceted Evaluation of Persona-Guided LLMs for Countering Hate},
-  author={Ngueajio, Mikel K and Plaza-del-Arco, Flor Miriam and Chung, Yi-Ling and Rawat, Danda B and Curry, Amanda Cercas},
-  journal={arXiv preprint arXiv:2506.04043},
-  year={2025}
+**Ngueajio, M. K., Plaza-del-Arco, F. M., Chung, Y. L., Rawat, D. B., & Curry, A. C. (2025). Think Like a Person Before Responding: A Multi-Faceted Evaluation of Persona-Guided LLMs for Countering Hate. arXiv preprint arXiv:2506.04043.**
+
+[BibTex] 
+
+@article{ngueajio2025think,
+  
+title={Think Like a Person Before Responding: A Multi-Faceted Evaluation of Persona-Guided LLMs for Countering Hate},
+  
+author={Ngueajio, Mikel K and Plaza-del-Arco, Flor Miriam and Chung, Yi-Ling and Rawat, Danda B and Curry, Amanda Cercas},
+  
+journal={arXiv preprint arXiv:2506.04043},
+  
+year={2025}
 }
 
 
